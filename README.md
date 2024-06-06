@@ -26,6 +26,5 @@ Feel free to fork this repository and submit pull requests. You can also open is
 
 ## Acknowledgements
 - "The C++ Programming Language" by Bjarne Stroustrup, published by Addison-Wesley, 2013.
-- All code examples are my own unless otherwise stated.
 
 Happy coding and learning!
